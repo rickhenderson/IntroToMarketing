@@ -1,5 +1,5 @@
 # Designing a Customer-Driven Marketing Strategy
-*These notes are based on Chapter 7 of Marketing An Introduction.*
+*These notes are based on Chapter 7 of Marketing: An Introduction, Updated Sixth Canadian Edition*
 
 The four aspects of a customer-driven marketing strategy are:
 * market segmentation
