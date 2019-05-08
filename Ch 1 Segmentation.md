@@ -9,3 +9,7 @@ The four aspects of a customer-driven marketing strategy are:
 
 Look at a company like Proctor and Gamble (P&G). They have some of the world's most valueable brands and are leaders in the field of branding. They invented brand management (Armstrong, 2018). Both Luvs and Pampers are owned by P&G. Why would the company create two different products that compete with each other instead of focussing on one? The reason is **<a href="https://en.wikipedia.org/wiki/Positioning_(marketing)">positioning</a>**.
 
+A marketer (you, in many cases) selects the customers that you are going to serve by using **segmentation** and **targeting**.
+
+Once this is completed you move on to your **value proposition**. This is done through **differentiation** (how is your product different, and how/why are you better than your competitors) and then **positioning** (arranging a space in the market where customers will *figuratively* see your product) (Armstrong, 2018).
+
