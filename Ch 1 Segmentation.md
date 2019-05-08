@@ -13,3 +13,9 @@ A marketer (you, in many cases) selects the customers that you are going to serv
 
 Once this is completed you move on to your **value proposition**. This is done through **differentiation** (how is your product different, and how/why are you better than your competitors) and then **positioning** (arranging a space in the market where customers will *figuratively* see your product) (Armstrong, 2018).
 
+# Bases of Market Segmentation
+
+* Segmenting Consumer Markets
+  * geographic, demographic, psychographic, and behavioural variables (Armstrong, 2018, p.241).
+* Segmenting Business Markets
+* Segmenting International Markets
