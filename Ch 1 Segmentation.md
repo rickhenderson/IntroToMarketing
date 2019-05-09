@@ -19,8 +19,10 @@ Once this is completed you move on to your **value proposition**. This is done t
   * geographic, demographic, psychographic, and behavioural variables (Armstrong, 2018, p.241).
   * segmenting in these ways allows the marketer to "understand key customer segments, target them more efficiently, and tailor market offerings and messages to their specific needs" (Armstrong, 2018).
 * Segmenting Business Markets
-  * buying behaviour and benefits may be the best choices for segmenting business markets
+  * buying **behaviour** and **benefits** may be the best choices for segmenting business markets
 * Segmenting International Markets
+  * can be segmented by **geography**, **economic factors**, **political and legal factors**, and **cultural factors**
+  * Mexico is often ignored, Canada and the US are not the same, and not everyone in South America speaks Spanish.
 
 
 ```
