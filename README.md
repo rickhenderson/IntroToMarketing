@@ -17,4 +17,4 @@ As a basic definition of marketing, so we know what *exactly* it is we are talki
 * https://en.wikibooks.org/wiki/Marketing/Introduction
 * <a href="https://www.forbes.com/sites/forbesagencycouncil/2017/03/16/seven-steps-to-a-better-integrated-marketing-communications-strategy/#62bb78ac7841">Seven Steps to a Better Integrated Marketing Communications Strategy</a>
 
-### Dedicated to the guys of the FastLane!
+### Dedicated to the guys and ladies of the FastLane!
