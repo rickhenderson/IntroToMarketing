@@ -23,6 +23,8 @@ Once this is completed you move on to your **value proposition**. This is done t
 * Segmenting International Markets
   * can be segmented by **geography**, **economic factors**, **political and legal factors**, and **cultural factors**
   * Mexico is often ignored, Canada and the US are not the same, and not everyone in South America speaks Spanish.
+  * Communication technology allows us to use **intermarket segmentation**, where groups with similar needs and behaviours may be split across different countries.
+  
 
 
 ```
