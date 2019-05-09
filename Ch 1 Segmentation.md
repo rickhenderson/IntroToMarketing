@@ -25,10 +25,17 @@ Once this is completed you move on to your **value proposition**. This is done t
   * Mexico is often ignored, Canada and the US are not the same, and not everyone in South America speaks Spanish.
   * Communication technology allows us to use **intermarket segmentation**, where groups with similar needs and behaviours may be split across different countries.
   
-
-
 ```
    Thinking Tip: All consumers seek value in the products they buy...but everyone 
    defines value differently.
 ```   
-fgdf
+# Requirements for Effective Segmentation
+* measurable
+  * You have to be able to determine the size of the market, their purchasing power, and determine different attributes that could segment the market
+* accessible
+* substantial
+  * The segments should be big enough that it would be profitable or worthwhile to pursue them.
+* differentiable
+  * The segments are distinguishable and react differently to different tactics and marketing mixes.
+* actionable
+  * The marketers have to be able to out and attract and serve the segment (customers).
