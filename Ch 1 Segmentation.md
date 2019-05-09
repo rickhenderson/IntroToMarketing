@@ -33,6 +33,7 @@ Once this is completed you move on to your **value proposition**. This is done t
 * measurable
   * You have to be able to determine the size of the market, their purchasing power, and determine different attributes that could segment the market
 * accessible
+  * Your marketing program has to be able to reach the target group.
 * substantial
   * The segments should be big enough that it would be profitable or worthwhile to pursue them.
 * differentiable
