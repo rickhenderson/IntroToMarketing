@@ -24,6 +24,7 @@ Once this is completed you move on to your **value proposition**. This is done t
 
 
 ```
-   Thinking Tip: All consumers seek value in the products they buy...but everyone defines value differently.
+   Thinking Tip: All consumers seek value in the products they buy...but everyone 
+   defines value differently.
 ```   
 fgdf
