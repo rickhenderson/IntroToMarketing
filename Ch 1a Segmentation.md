@@ -40,3 +40,5 @@ Once this is completed you move on to your **value proposition**. This is done t
   * The segments are distinguishable and react differently to different tactics and marketing mixes.
 * actionable
   * The marketers have to be able to out and attract and serve the segment (customers).
+  
+  <a href="Ch 1b Targeting.md">Next</a>
