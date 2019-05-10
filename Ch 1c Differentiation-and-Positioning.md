@@ -14,3 +14,4 @@ Differentiate along:
 * people
 * image (brand)
 
+## Finding a Value Proposition
