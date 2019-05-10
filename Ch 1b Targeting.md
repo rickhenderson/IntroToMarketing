@@ -7,4 +7,9 @@ There are four marketing strategies:
 
 Undifferentiated (mass marketing) > Differentiated (segmented) > Concentrated (niche) > Micromarketing (local or individual)
 
-
+## Choosing a Targeting Strategy
+Topics to consider:
+* company resources
+* product variability
+* market variability
+* competitor's marketing strategies
