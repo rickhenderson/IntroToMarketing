@@ -28,10 +28,10 @@ OR
 
 ```
 Where 
-(1) is the category in which the brand operates (<a href="https://www.brandwatch.com/blog/write-brand-positioning-statement/">Smith, 2016</a>).
-(2) is target audience.
-(3) is the benefit to the customer.
-(4) is the reason why the brand will deliver on it's promise.
+1. is the category in which the brand operates (<a href="https://www.brandwatch.com/blog/write-brand-positioning-statement/">Smith, 2016</a>).
+2. is target audience.
+3. is the benefit to the customer.
+4. is the reason why the brand will deliver on it's promise.
 
 ## Communicating and Delivering the Chosen Position
 
