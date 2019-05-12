@@ -12,6 +12,7 @@ As a basic definition of marketing, so we know what *exactly* it is we are talki
 ## Sources
 * Marketing An Introduction, 7th Edition, by Gary
 * Lectures by Brent Ball, Wilfrid Laurier University, 2019
+* Smith, Kit. 2016. https://www.brandwatch.com/blog/write-brand-positioning-statement/ retrieved May 12, 2019
 
 ## Other Resources
 * https://en.wikibooks.org/wiki/Marketing/Introduction
