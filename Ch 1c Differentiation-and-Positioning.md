@@ -33,3 +33,7 @@ Where
 (3) is the benefit to the customer.
 (4) is the reason why the brand will deliver on it's promise.
 
+## Communicating and Delivering the Chosen Position
+
+After a company chooses it's position and target markets, it must use its **marketing mix** to communicate these to the target consumers.
+
