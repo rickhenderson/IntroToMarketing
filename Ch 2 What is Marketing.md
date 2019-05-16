@@ -37,7 +37,7 @@ Market segmentation vs. target marketing
 
 Only select customers you can serve well and profitably! You can't be all things to all people.
 
-###Five Concepts used in Marketing
+### Five Concepts used in Marketing
 * production
 * product
 * selling
