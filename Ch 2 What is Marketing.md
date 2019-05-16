@@ -1,3 +1,5 @@
+*This information comes from Marketing: An Introduction by Armstrong et al., Chapter 1*
+
 # What is Marketing?
 
 Marketing can be seen as the managing of profitable relationships with customers (Armstrong et al.). 
