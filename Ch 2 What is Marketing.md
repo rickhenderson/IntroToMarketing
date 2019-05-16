@@ -20,3 +20,4 @@ The 5 Core Concepts are:
 
 A product is just a tool for solving a problem.
 
+*market*: A market is a set of actual and potential buyers for a product, service, or idea.
