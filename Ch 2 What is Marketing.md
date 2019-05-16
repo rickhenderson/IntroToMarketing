@@ -15,3 +15,7 @@ Marketing is about meeting customer needs.
 The 5 Core Concepts are:
 * (1) needs, wants, and demands; (2) market offerings (products, services, and experiences); (3) value and satisfaction; (4) exchanges and relationships; and (5) markets.
 
+*market myopia*: getting lost in products and forgetting about the needs and experience of customers
+
+A product is just a tool for solving a problem.
+
