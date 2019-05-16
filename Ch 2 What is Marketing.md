@@ -44,4 +44,6 @@ Only select customers you can serve well and profitably! You can't be all things
 * marketing - A customer-centred sense-and-respond philosophy. The job is not to find the right customers for your product but to find the right products for your customers.
 * societal marketing
 
+## Creating an Integrated Marketing Plan
+*aka Integrated Marketing Communication (IMC)*
 
