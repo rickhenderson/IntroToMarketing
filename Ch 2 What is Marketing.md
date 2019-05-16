@@ -6,7 +6,8 @@ Marketing can be seen as the managing of profitable relationships with customers
 *"The twofold goal of marketing is to attract new customers by promising superior value and to keep and grow current customers by delivering satisfaction"* (Armstrong et al., p. 6).
 
 ```
-*marketing mix*: a set of marketing tools that work together to satisfy customer needs and build customer relationships
+*marketing mix*: a set of marketing tools that work together to satisfy customer needs and 
+                 build customer relationships
 ```
 Marketing engages, understands, develops, provides, prices, distributes, and promotes.
 
