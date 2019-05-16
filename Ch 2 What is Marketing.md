@@ -25,3 +25,23 @@ The 5 Core Concepts are:
 A product is just a tool for solving a problem.
 
 *market*: A market is a set of actual and potential buyers for a product, service, or idea.
+
+## Designing a Customer-Driven Marketing Strategy
+*marketing management*: art and science of choosing target markets and building profitable relationships with them
+
+A marketing manager has to ask two questions:
+* What customers will we serve? (define a target market)
+* What is our value proposition?
+
+Market segmentation vs. target marketing
+
+Only select customers you can serve well and profitably! You can't be all things to all people.
+
+###Five Concepts used in Marketing
+* production
+* product
+* selling
+* marketing
+* societal marketing
+
+
