@@ -7,10 +7,10 @@ Quotations are properly attributed using APA citations (or soon will be) and com
 
 # Definition
 As a basic definition of marketing, so we know what *exactly* it is we are talking about we'll use
-"managing profitable customer relationships" (Gary, pg. 3). However the aim of marketing is really to "create value for customers and to capture value from customers in return" (Gary, pg.3).
+"managing profitable customer relationships" (Armstrong et al., p. 3). However the aim of marketing is really to "create value for customers and to capture value from customers in return" (Armstrong et al., p. 3).
 
 ## Sources
-* Marketing An Introduction, 7th Edition, by Gary
+* Marketing An Introduction, 7th Edition, by Gary Armstrong, Philip T. Kotler, Valerie Trifts, and Lilly Anne Buchwitz
 * Lectures by Brent Ball, Wilfrid Laurier University, 2019
 * Smith, Kit. 2016. https://www.brandwatch.com/blog/write-brand-positioning-statement/ retrieved May 12, 2019
 
